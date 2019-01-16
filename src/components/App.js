@@ -2,11 +2,11 @@ import React, { Component } from "react";
 import Table from "./Table";
 
 class App extends Component {
-  removeCharacter = index => {
+  removeCharacter = characterToRemove => {
     const { characters } = this.state;
 
     this.setState({
-      characters: characters.filter((character, i) => i !== index)
+      characters: characters.filter((character) => characterToRemove !== character)
     });
   };
 

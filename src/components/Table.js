@@ -13,13 +13,13 @@ const TableHeader = () => {
 };
 
 const TableBody = props => {
-  const rows = props.characterData.map((row, index) => {
+  const rows = props.characterData.map((character, index) => {
     return (
       <tr key={index}>
-        <td>{row.name}</td>
-        <td>{row.job}</td>
+        <td>{character.name}</td>
+        <td>{character.job}</td>
         <td>
-          <button onClick={() => props.removeCharacter(index)}>Delete</button>
+          <button onClick={() => props.removeCharacter(character)}>Delete</button>
         </td>
       </tr>
     );
