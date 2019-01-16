@@ -1,13 +1,13 @@
 {
-  "main.css": "/tania-react/static/css/main.52ac5685.chunk.css",
-  "main.js": "/tania-react/static/js/main.247d5bbf.chunk.js",
-  "main.js.map": "/tania-react/static/js/main.247d5bbf.chunk.js.map",
-  "static/js/1.f4789f78.chunk.js": "/tania-react/static/js/1.f4789f78.chunk.js",
-  "static/js/1.f4789f78.chunk.js.map": "/tania-react/static/js/1.f4789f78.chunk.js.map",
-  "runtime~main.js": "/tania-react/static/js/runtime~main.82dd162d.js",
-  "runtime~main.js.map": "/tania-react/static/js/runtime~main.82dd162d.js.map",
-  "static/css/main.52ac5685.chunk.css.map": "/tania-react/static/css/main.52ac5685.chunk.css.map",
-  "index.html": "/tania-react/index.html",
-  "precache-manifest.8ce73e9df32f520006bb6055dc32688e.js": "/tania-react/precache-manifest.8ce73e9df32f520006bb6055dc32688e.js",
-  "service-worker.js": "/tania-react/service-worker.js"
+  "main.css": "/react-tutorial/static/css/main.52ac5685.chunk.css",
+  "main.js": "/react-tutorial/static/js/main.247d5bbf.chunk.js",
+  "main.js.map": "/react-tutorial/static/js/main.247d5bbf.chunk.js.map",
+  "static/js/1.f4789f78.chunk.js": "/react-tutorial/static/js/1.f4789f78.chunk.js",
+  "static/js/1.f4789f78.chunk.js.map": "/react-tutorial/static/js/1.f4789f78.chunk.js.map",
+  "runtime~main.js": "/react-tutorial/static/js/runtime~main.d6d0aa42.js",
+  "runtime~main.js.map": "/react-tutorial/static/js/runtime~main.d6d0aa42.js.map",
+  "static/css/main.52ac5685.chunk.css.map": "/react-tutorial/static/css/main.52ac5685.chunk.css.map",
+  "index.html": "/react-tutorial/index.html",
+  "precache-manifest.e1eda3dd581166fe62b9dd9e3f6d6ba1.js": "/react-tutorial/precache-manifest.e1eda3dd581166fe62b9dd9e3f6d6ba1.js",
+  "service-worker.js": "/react-tutorial/service-worker.js"
 }
