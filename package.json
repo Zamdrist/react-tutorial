@@ -1,6 +1,6 @@
 {
-  "name": "tania-react",
-  "homepage": "https://zamdrist.github.io/tania-react",
+  "name": "react-tutorial",
+  "homepage": "https://zamdrist.github.io/react-tutorial",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
